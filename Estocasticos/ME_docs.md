@@ -5,11 +5,11 @@
 
 [https://bookdown.org/dparedesi/data-science-con-r/inferencia-estad%C3%ADstica.html]
 
-minimos cuadrados
+- minimos cuadrados
 
 [https://fhernanb.github.io/libro_regresion/rls.html]
 
-verosimilitud
+- verosimilitud
 
 [https://fhernanb.github.io/Manual-de-R/loglik.html]
 
