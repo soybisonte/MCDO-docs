@@ -2,21 +2,20 @@
 
 ### Estadística Inferencial
 - Estimación de parametros MMC MWV
-- Prueba de hipótesis
-
-### Distribuciones muestrales
-- Chi cuadrada
-- T student
-- F de snedecor
-
-[https://rpubs.com/Edimer/815316]
-
-[https://estadistica-dma.ulpgc.es/cursoR4ULPGC/11-inferencia-MediaVar.html]
 
 [https://bookdown.org/dparedesi/data-science-con-r/inferencia-estad%C3%ADstica.html]
 
-[https://rpubs.com/diegotriana11/analisis_descriptivo_inferencial]
+- Prueba de hipótesis
+Vienen muchos ejemplos para distintos parametros
+[https://fhernanb.github.io/Manual-de-R/ph.html]
 
-[https://rpubs.com/revite19/714331]
+### Distribuciones muestrales
+- Chi cuadrada
 
-[https://fhernanb.github.io/libro_regresion/rls.html]
+- T student
+[https://bookdown.org/dietrichson/metodos-cuantitativos/prueba-t-de-student-para-muestras-independientes.html]
+- F de snedecor
+
+
+Compilado de todo con ejemplos
+[https://bookdown.org/dietrichson/metodos-cuantitativos/estimaci%C3%B3n-de-par%C3%A1metros.html]
