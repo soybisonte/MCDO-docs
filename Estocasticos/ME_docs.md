@@ -1,5 +1,9 @@
 ## Presentación de temas para la clase de Modelo Estocásticos
 
+- Concepto
+- Ejemplo en R
+- Ejercicio
+
 ### Estadística Inferencial
 - Estimación de parametros MMC MWV
 
