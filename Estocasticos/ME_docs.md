@@ -19,7 +19,15 @@
 
 - Prueba de hipótesis
 Vienen muchos ejemplos para distintos parametros
+
 [https://fhernanb.github.io/Manual-de-R/ph.html]
+
+Explicación de prueba de hipótesis en video.
+
+[https://www.youtube.com/watch?v=AJcy4eZMwWM&t=606s]
+
+
+
 
 ### Distribuciones muestrales
 - Chi cuadrada
