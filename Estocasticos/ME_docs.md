@@ -26,6 +26,9 @@ Explicación de prueba de hipótesis en video.
 
 [https://www.youtube.com/watch?v=AJcy4eZMwWM&t=606s]
 
+otro video mas con ejemplos en R
+[https://www.youtube.com/watch?v=qgX5uxjHhDQ]
+
 
 
 
