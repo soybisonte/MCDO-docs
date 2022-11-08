@@ -39,16 +39,21 @@ Pruebas paramétricas
 [https://bookdown.org/dietrichson/metodos-cuantitativos/pruebas-param%C3%A9tricas.html]
 
 - T student
+
 [https://bookdown.org/dietrichson/metodos-cuantitativos/prueba-t-de-student-para-muestras-independientes.html]
 
 - F de snedecor
+
 [https://bookdown.org/dietrichson/metodos-cuantitativos/prueba-de-fisher.html]
 
 - Chi cuadrada
+
 [https://bookdown.org/dietrichson/metodos-cuantitativos/chi-square-test.html]
 
 
+Mini acordeon de distribuciones continuas
 
+[https://bookdown.org/cjtorresj/pyef/otras-distr-cont.html]
 
 Compilado de todo con ejemplos
 [https://bookdown.org/dietrichson/metodos-cuantitativos/estimaci%C3%B3n-de-par%C3%A1metros.html]
