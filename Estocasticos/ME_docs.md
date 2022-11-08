@@ -33,11 +33,21 @@ otro video mas con ejemplos en R
 
 
 ### Distribuciones muestrales
-- Chi cuadrada
+
+Pruebas paramétricas
+
+[https://bookdown.org/dietrichson/metodos-cuantitativos/pruebas-param%C3%A9tricas.html]
 
 - T student
 [https://bookdown.org/dietrichson/metodos-cuantitativos/prueba-t-de-student-para-muestras-independientes.html]
+
 - F de snedecor
+[https://bookdown.org/dietrichson/metodos-cuantitativos/prueba-de-fisher.html]
+
+- Chi cuadrada
+[https://bookdown.org/dietrichson/metodos-cuantitativos/chi-square-test.html]
+
+
 
 
 Compilado de todo con ejemplos
